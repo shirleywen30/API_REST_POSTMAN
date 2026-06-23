@@ -1,0 +1,12 @@
+{
+    "name": "dropc/jwt-api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Dropc\\JwtApi\\": "src/"
+        }
+    },
+    "require": {
+        "firebase/php-jwt": "^7.1"
+    }
+}
